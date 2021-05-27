@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+#Fam_image {
+width: 500;
+height:500;
+}
+
+button {
+    height: 50;
+    width:100;
+    background-color: blue;
+    color: orangered;
+    font-size: 20px;
+    font:bold;
+    font-family: 'Sofia';font-size:
+}
